@@ -3,6 +3,10 @@ title: "Framelet Docs"
 description: "The official Framelet Documentation"
 ---
 
+## Index
+
+- [Framelet List](./list)
+
 ## The So-called "Installation"
 
 1. Copy the JavaScript code from the `*.js` file that you want.
