@@ -1,6 +1,6 @@
 # Framelet
 
-![chrome-test](https://img.shields.io/badge/Google%20Chrome-passing-success?logo=googlechrome) ![framelet-count](https://img.shields.io/badge/Framelet%20Count-2-informational)
+![chrome-test](https://img.shields.io/badge/Google%20Chrome-passing-success?logo=googlechrome) ![framelet-count](https://img.shields.io/badge/Framelet%20Count-2-informational) ![official-website](https://img.shields.io/badge/Website-framelet.js.org-yellow)
 
 Framelet is a collection of "iframers" that work from the bookmarks bar.
 
@@ -30,7 +30,3 @@ When the button is pressed, both the `<iframe>` and `<button>` elements disappea
 1. Framelets do not work on new tab pages (e.g. `chrome://newtab`)
 2. Some websites can block "iframing". There is no workaround as far as the author knows.
 3. If an invalid URL is given, the Framelet will not work, and the page will have to be reloaded.
-
-## Feedback
-
-[Feedback form](https://forms.gle/Fo5yZhpQYCFnbgd28)
