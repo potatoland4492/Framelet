@@ -32,7 +32,7 @@ Disguises the current tab as a Google Slides tab. This only changes the tab name
 Code:
 
 ```JAVASCRIPT
-javascript: var link = document.querySelector("link[rel*='icon']") || document.createElement('link'); link.type = 'image/x-icon'; link.rel = 'icon'; link.href = 'https://ssl.gstatic.com/docs/presentations/images/favicon5.ico'; document.title = prompt('Slidewhow Name:', 'YourName - SlideName').concat(' - Google Sheets'); document.getElementsByTagName('head')[0].appendChild(link);
+javascript: var link = document.querySelector("link[rel*='icon']") || document.createElement('link'); link.type = 'image/x-icon'; link.rel = 'icon'; link.href = 'https://ssl.gstatic.com/docs/presentations/images/favicon5.ico'; document.title = prompt('Slideshow Name:', 'YourName - SlideName').concat(' - Google Slides'); document.getElementsByTagName('head')[0].appendChild(link);
 ```
 
 ### gSheet
