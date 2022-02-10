@@ -1,6 +1,6 @@
 # Framelet
 
-![chrome-test](https://img.shields.io/badge/Google%20Chrome-passing-success?logo=googlechrome) ![framelet-count](https://img.shields.io/badge/Framelet%20Count-2-informational) ![official-website](https://img.shields.io/badge/Website-framelet.js.org-yellow)
+![chrome-test](https://img.shields.io/badge/Google%20Chrome%20Tests-passing-success?logo=googlechrome) ![framelet-count](https://img.shields.io/badge/Framelet%20Count-3-informational) ![disguiselet-count](https://img.shields.io/badge/Disguiselet%20Count-5-informational) ![official-website](https://img.shields.io/badge/Website-framelet.js.org-yellow)
 
 Framelet is a collection of "iframers" that work from the bookmarks bar. Looking for the Disguiselets? Click [here](https://framelet.js.org/disguiselets).
 
