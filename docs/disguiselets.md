@@ -45,6 +45,14 @@ Code:
 javascript: var link = document.querySelector("link[rel*='icon']") || document.createElement('link'); link.type = 'image/x-icon'; link.rel = 'icon'; link.href = 'https://ssl.gstatic.com/docs/spreadsheets/favicon3.ico'; document.title = prompt('Spreadsheet Name:', 'YourName - SheetName').concat(' - Google Sheets'); document.getElementsByTagName('head')[0].appendChild(link);
 ```
 
+### gClassroom
+
+Disguises the current tab as Google Classroom. This changes the tab name and icon.
+
+```JAVASCRIPT
+javascript: var link = document.querySelector("link[rel*='icon']") || document.createElement('link'); link.type = 'image/x-icon'; link.rel = 'icon'; link.href = 'https://ssl.gstatic.com/classroom/favicon.png'; document.title = 'Classsroom'; document.getElementsByTagName('head')[0].appendChild(link);
+```
+
 ## Insiders Framelets
 
 ***These Framelets are in development and may not work. If they do not work, they will do no damage. To fix a problem, reload the page that the Framelet was used on.***
