@@ -2,7 +2,7 @@
 
 ![chrome-test](https://img.shields.io/badge/Google%20Chrome-passing-success?logo=googlechrome) ![framelet-count](https://img.shields.io/badge/Framelet%20Count-2-informational) ![official-website](https://img.shields.io/badge/Website-framelet.js.org-yellow)
 
-Framelet is a collection of "iframers" that work from the bookmarks bar.
+Framelet is a collection of "iframers" that work from the bookmarks bar. Looking for the Disguiselets? Click [here](https://framelet.js.org/disguiselets).
 
 ## Framelets (newest to oldest)
 
