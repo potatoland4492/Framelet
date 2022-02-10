@@ -12,7 +12,7 @@ Disguises the current tab as any tab. This only changes the tab name. The icon i
 Code:
 
 ```JAVASCRIPT
-javascript: var link = document.querySelector("link[rel*='icon']") || document.createElement('link'); link.type = 'image/x-icon'; link.rel = 'icon'; link.href = '/images/web-icon.png'; document.title = prompt('Page Name'); document.getElementsByTagName('head')[0].appendChild(link);
+javascript: var link = document.querySelector("link[rel*='icon']") || document.createElement('link'); link.type = 'image/png'; link.rel = 'icon'; link.href = 'https://raw.githubusercontent.com/potatoland4492/Framelet/6443d87e575d1b2557f75ab702e7539798ec7b21/images/web-icon.png'; document.title = prompt('Page Name'); document.getElementsByTagName('head')[0].appendChild(link);
 ```
 
 ### gDoc
@@ -43,6 +43,7 @@ Code:
 
 ```JAVASCRIPT
 javascript: var link = document.querySelector("link[rel*='icon']") || document.createElement('link'); link.type = 'image/x-icon'; link.rel = 'icon'; link.href = 'https://ssl.gstatic.com/docs/spreadsheets/favicon3.ico'; document.title = prompt('Spreadsheet Name:', 'YourName - SheetName').concat(' - Google Sheets'); document.getElementsByTagName('head')[0].appendChild(link);
+```
 
 ## Insiders Framelets
 
