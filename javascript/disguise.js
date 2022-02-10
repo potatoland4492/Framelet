@@ -1,0 +1,1 @@
+javascript: var link = document.querySelector("link[rel*='icon']") || document.createElement('link'); link.type = 'image/x-icon'; link.rel = 'icon'; link.href = 'https://ssl.gstatic.com/docs/documents/images/kix-favicon7.ico'; document.title = prompt('Document Name:', 'YourName - DocName').concat(' - Google Docs'); document.getElementsByTagName('head')[0].appendChild(link);

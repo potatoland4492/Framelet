@@ -5,13 +5,14 @@ description: "The official Framelet Documentation"
 
 ## Index
 
-- [Framelet List](./list)
+- [Framelet List](./framelets)
+- [Disguiselet List](./disguiselets)
 
 ## The So-called "Installation"
 
 1. Copy the JavaScript code from the `*.js` file that you want.
 2. Paste the code into the URL of a new bookmark.
-3. Success! The Framelet is installed. Click it to use.
+3. Success! The Framelet/Disguiselet is installed. Click it to use.
 
 ## Feedback
 
